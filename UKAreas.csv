@@ -1,0 +1,348 @@
+Name,Type
+East of England,Regions
+East Midlands,Regions
+London,Regions
+North East,Regions
+North West,Regions
+South East,Regions
+South West,Regions
+West Midlands,Regions
+Yorkshire and the Humber,Regions
+Cambridgeshire,Non-metropolitan county
+Cumbria,Non-metropolitan county
+Derbyshire,Non-metropolitan county
+Devon,Non-metropolitan county
+East Sussex,Non-metropolitan county
+Essex,Non-metropolitan county
+Gloucestershire,Non-metropolitan county
+Hampshire,Non-metropolitan county
+Hertfordshire,Non-metropolitan county
+Kent,Non-metropolitan county
+Lancashire,Non-metropolitan county
+Leicestershire,Non-metropolitan county
+Lincolnshire,Non-metropolitan county
+Norfolk,Non-metropolitan county
+North Yorkshire,Non-metropolitan county
+Nottinghamshire,Non-metropolitan county
+Oxfordshire,Non-metropolitan county
+Somerset,Non-metropolitan county
+Staffordshire,Non-metropolitan county
+Suffolk,Non-metropolitan county
+Surrey,Non-metropolitan county
+Warwickshire,Non-metropolitan county
+West Sussex,Non-metropolitan county
+Worcestershire,Non-metropolitan county
+Cambridge,Non-metropolitan districts
+South Cambridgeshire,Non-metropolitan districts
+Huntingdonshire,Non-metropolitan districts
+Fenland,Non-metropolitan districts
+East Cambridgeshire,Non-metropolitan districts
+Barrow-in-Furness,Non-metropolitan districts
+South Lakeland,Non-metropolitan districts
+Copeland ,Non-metropolitan districts
+Allerdale,Non-metropolitan districts
+Eden,Non-metropolitan districts
+Carlisle,Non-metropolitan districts
+High Peak,Non-metropolitan districts
+Derbyshire Dales ,Non-metropolitan districts
+South Derbyshire,Non-metropolitan districts
+Erewash,Non-metropolitan districts
+Amber Valley,Non-metropolitan districts
+North East Derbyshire ,Non-metropolitan districts
+Chesterfield,Non-metropolitan districts
+Bolsover,Non-metropolitan districts
+Exeter,Non-metropolitan districts
+East Devon,Non-metropolitan districts
+Mid Devon,Non-metropolitan districts
+North Devon,Non-metropolitan districts
+Torridge,Non-metropolitan districts
+West Devon,Non-metropolitan districts
+South Hams,Non-metropolitan districts
+Teignbridge,Non-metropolitan districts
+Hastings,Non-metropolitan districts
+Rother,Non-metropolitan districts
+Wealden,Non-metropolitan districts
+Eastbourne,Non-metropolitan districts
+Lewes,Non-metropolitan districts
+Harlow,Non-metropolitan districts
+Epping Forest ,Non-metropolitan districts
+Brentwood,Non-metropolitan districts
+Basildon,Non-metropolitan districts
+Castle Point,Non-metropolitan districts
+Rochford,Non-metropolitan districts
+Maldon,Non-metropolitan districts
+Chelmsford,Non-metropolitan districts
+Uttlesford,Non-metropolitan districts
+Braintree,Non-metropolitan districts
+Colchester,Non-metropolitan districts
+Tendring,Non-metropolitan districts
+	Gloucester,Non-metropolitan districts
+Tewkesbury,Non-metropolitan districts
+Cheltenham,Non-metropolitan districts
+Cotswold,Non-metropolitan districts
+Stroud,Non-metropolitan districts
+Forest of Dean,Non-metropolitan districts
+Gosport,Non-metropolitan districts
+Fareham,Non-metropolitan districts
+Winchester,Non-metropolitan districts
+Havant,Non-metropolitan districts
+East Hampshire,Non-metropolitan districts
+Hart,Non-metropolitan districts
+Rushmoor,Non-metropolitan districts
+Basingstoke and Deane,Non-metropolitan districts
+Test Valley,Non-metropolitan districts
+Eastleigh,Non-metropolitan districts
+New Forest,Non-metropolitan districts
+Three Rivers,Non-metropolitan districts
+Watford,Non-metropolitan districts
+Hertsmere,Non-metropolitan districts
+Welwyn Hatfield ,Non-metropolitan districts
+Broxbourne,Non-metropolitan districts
+East Hertfordshire,Non-metropolitan districts
+Stevenage,Non-metropolitan districts
+North Hertfordshire,Non-metropolitan districts
+St Albans,Non-metropolitan districts
+Dacorum,Non-metropolitan districts
+Dartford,Non-metropolitan districts
+Gravesham ,Non-metropolitan districts
+Sevenoaks ,Non-metropolitan districts
+Tonbridge and Malling,Non-metropolitan districts
+Tunbridge Wells,Non-metropolitan districts
+Maidstone ,Non-metropolitan districts
+Swale ,Non-metropolitan districts
+Ashford ,Non-metropolitan districts
+Folkestone and Hythe,Non-metropolitan districts
+Canterbury ,Non-metropolitan districts
+Dover ,Non-metropolitan districts
+Thanet,Non-metropolitan districts
+West Lancashire,Non-metropolitan districts
+Chorley,Non-metropolitan districts
+South Ribble,Non-metropolitan districts
+Fylde,Non-metropolitan districts
+Preston,Non-metropolitan districts
+Wyre,Non-metropolitan districts
+Lancaster,Non-metropolitan districts
+Ribble Valley ,Non-metropolitan districts
+Pendle,Non-metropolitan districts
+Burnley,Non-metropolitan districts
+Rossendale,Non-metropolitan districts
+Hyndburn,Non-metropolitan districts
+Charnwood,Non-metropolitan districts
+Melton ,Non-metropolitan districts
+Harborough ,Non-metropolitan districts
+Oadby and Wigston,Non-metropolitan districts
+Blaby ,Non-metropolitan districts
+Hinckley and Bosworth,Non-metropolitan districts
+North West Leicestershire,Non-metropolitan districts
+Lincoln,Non-metropolitan districts
+North Kesteven,Non-metropolitan districts
+South Kesteven,Non-metropolitan districts
+South Holland,Non-metropolitan districts
+Boston,Non-metropolitan districts
+East Lindsey,Non-metropolitan districts
+West Lindsey,Non-metropolitan districts
+Norwich,Non-metropolitan districts
+South Norfolk,Non-metropolitan districts
+Great Yarmouth,Non-metropolitan districts
+Broadland,Non-metropolitan districts
+North Norfolk,Non-metropolitan districts
+King's Lynn and West Norfolk,Non-metropolitan districts
+Breckland,Non-metropolitan districts
+Selby,Non-metropolitan districts
+Harrogate,Non-metropolitan districts
+Craven,Non-metropolitan districts
+Richmondshire,Non-metropolitan districts
+Hambleton,Non-metropolitan districts
+Ryedale,Non-metropolitan districts
+Scarborough,Non-metropolitan districts
+Rushcliffe,Non-metropolitan districts
+Broxtowe,Non-metropolitan districts
+Ashfield,Non-metropolitan districts
+Gedling,Non-metropolitan districts
+Newark and Sherwood,Non-metropolitan districts
+Mansfield,Non-metropolitan districts
+Bassetlaw,Non-metropolitan districts
+Oxford,Non-metropolitan districts
+Cherwell,Non-metropolitan districts
+South Oxfordshire ,Non-metropolitan districts
+Vale of White Horse,Non-metropolitan districts
+West Oxfordshire,Non-metropolitan districts
+South Somerset,Non-metropolitan districts
+Somerset West and Taunton ,Non-metropolitan districts
+Sedgemoor,Non-metropolitan districts
+Mendip,Non-metropolitan districts
+Tamworth,Non-metropolitan districts
+Lichfield,Non-metropolitan districts
+Cannock Chase,Non-metropolitan districts
+South Staffordshire,Non-metropolitan districts
+Stafford,Non-metropolitan districts
+Newcastle-under-Lyme,Non-metropolitan districts
+Staffordshire Moorlands,Non-metropolitan districts
+East Staffordshire,Non-metropolitan districts
+Ipswich,Non-metropolitan districts
+Babergh,Non-metropolitan districts
+East Suffolk,Non-metropolitan districts
+Mid Suffolk ,Non-metropolitan districts
+West Suffolk,Non-metropolitan districts
+Spelthorne,Non-metropolitan districts
+Runnymede,Non-metropolitan districts
+Surrey Heath,Non-metropolitan districts
+Woking,Non-metropolitan districts
+Elmbridge,Non-metropolitan districts
+Guildford,Non-metropolitan districts
+Waverley,Non-metropolitan districts
+Mole Valley,Non-metropolitan districts
+Epsom and Ewell,Non-metropolitan districts
+Reigate and Banstead,Non-metropolitan districts
+Tandridge,Non-metropolitan districts
+North Warwickshire,Non-metropolitan districts
+Nuneaton and Bedworth,Non-metropolitan districts
+Rugby ,Non-metropolitan districts
+Stratford-on-Avon,Non-metropolitan districts
+Warwick,Non-metropolitan districts
+Worthing,Non-metropolitan districts
+Arun,Non-metropolitan districts
+Chichester,Non-metropolitan districts
+Horsham,Non-metropolitan districts
+Crawley,Non-metropolitan districts
+Mid Sussex,Non-metropolitan districts
+Adur,Non-metropolitan districts
+Worcester,Non-metropolitan districts
+Malvern Hills,Non-metropolitan districts
+Wyre Forest,Non-metropolitan districts
+Bromsgrove,Non-metropolitan districts
+Redditch,Non-metropolitan districts
+Wychavon,Non-metropolitan districts
+Greater Manchester,Metropolitan county
+Merseyside,Metropolitan county
+South Yorkshire,Metropolitan county
+Tyne and Wear,Metropolitan county
+West Midlands,Metropolitan county
+West Yorkshire,Metropolitan county
+Bolton,Metropolitan district
+Bury,Metropolitan district
+Manchester,Metropolitan district
+Oldham,Metropolitan district
+Rochdale,Metropolitan district
+Salford,Metropolitan district
+Stockport,Metropolitan district
+Tameside,Metropolitan district
+Trafford,Metropolitan district
+Wigan,Metropolitan district
+Knowsley,Metropolitan district
+Liverpool,Metropolitan district
+Sefton,Metropolitan district
+St Helens,Metropolitan district
+Wirral,Metropolitan district
+Barnsley,Metropolitan district
+Doncaster,Metropolitan district
+Rotherham,Metropolitan district
+Sheffield,Metropolitan district
+Gateshead,Metropolitan district
+Newcastle upon Tyne,Metropolitan district
+North Tyneside,Metropolitan district
+Sunderland,Metropolitan district
+Birmingham,Metropolitan district
+Coventry,Metropolitan district
+Dudley,Metropolitan district
+Sandwell,Metropolitan district
+Solihull,Metropolitan district
+Walsall,Metropolitan district
+Wolverhampton,Metropolitan district
+Bradford,Metropolitan district
+Calderdale,Metropolitan district
+Kirklees,Metropolitan district
+Leeds,Metropolitan district
+Wakefield,Metropolitan district
+Barking and Dagenham,London borough
+Barnet,London borough
+Bexley,London borough
+Brent,London borough
+Bromley,London borough
+Camden,London borough
+City of Westminster,London borough
+Croydon,London borough
+Ealing,London borough
+Enfield,London borough
+Greenwich,London borough
+Hackney,London borough
+Hammersmith and Fulham,London borough
+Haringey,London borough
+Harrow,London borough
+Havering,London borough
+Hillingdon,London borough
+Hounslow,London borough
+Islington,London borough
+Kensington and Chelsea,London borough
+Kingston upon Thames,London borough
+Lambeth,London borough
+Lewisham,London borough
+Merton,London borough
+Newham,London borough
+Redbridge,London borough
+Richmond upon Thames,London borough
+Southwark,London borough
+Sutton,London borough
+Tower Hamlets,London borough
+Waltham Forest,London borough
+Wandsworth,London borough
+City of London,Sui generis
+North Northamptonshire,District(s) gained county functions
+West Northamptonshire,District(s) gained county functions
+Buckinghamshire U.A.,District(s) gained county functions
+"Bournemouth, Christchurch and Poole",District(s) gained county functions
+Dorset,District(s) gained county functions
+Cornwall,County gained district functions
+Durham,County gained district functions
+Northumberland,County gained district functions
+Shropshire,County gained district functions
+Wiltshire,County gained district functions
+Bedford,District(s) gained county functions
+Central Bedfordshire,District(s) gained county functions
+Cheshire East,District(s) gained county functions
+Cheshire West and Chester,District(s) gained county functions
+Blackburn with Darwen,District(s) gained county functions
+Blackpool,District(s) gained county functions
+Bracknell Forest,District(s) gained county functions
+Halton,District(s) gained county functions
+Herefordshire,District(s) gained county functions
+Medway,District(s) gained county functions
+Nottingham,District(s) gained county functions
+Peterborough,District(s) gained county functions
+Plymouth,District(s) gained county functions
+Reading,District(s) gained county functions
+Slough,District(s) gained county functions
+Southend-on-Sea,District(s) gained county functions
+Stoke-on-Trent,District(s) gained county functions
+Swindon,District(s) gained county functions
+Telford and Wrekin,District(s) gained county functions
+Thurrock,District(s) gained county functions
+Torbay,District(s) gained county functions
+Warrington,District(s) gained county functions
+West Berkshire,District(s) gained county functions
+Windsor and Maidenhead,District(s) gained county functions
+Wokingham,District(s) gained county functions
+Brighton and Hove,District(s) gained county functions
+Brighton and Hove,District(s) gained county functions
+Darlington,District(s) gained county functions
+Leicester,District(s) gained county functions
+Luton,District(s) gained county functions
+Milton Keynes,District(s) gained county functions
+Portsmouth,District(s) gained county functions
+Rutland,District(s) gained county functions
+Southampton,District(s) gained county functions
+Bath and North East Somerset,District(s) gained county functions
+Bristol,District(s) gained county functions
+East Riding of Yorkshire,District(s) gained county functions
+Hartlepool,District(s) gained county functions
+Kingston upon Hull,District(s) gained county functions
+Middlesbrough,District(s) gained county functions
+North East Lincolnshire,District(s) gained county functions
+North Lincolnshire,District(s) gained county functions
+North Somerset,District(s) gained county functions
+Redcar and Cleveland,District(s) gained county functions
+South Gloucestershire,District(s) gained county functions
+Stockton-on-Tees,District(s) gained county functions
+York,District(s) gained county functions
+Isle of Wight,County gained district functions
+Isles of Scilly,Sui generis
